@@ -514,7 +514,7 @@ a:focus {
 }
 
 .contact_section .contact-form {
-  padding: 35px 20px 0 20px;
+  padding: 35px 20px 0;
   border-radius: 20px;
 }
 
@@ -624,4 +624,3 @@ a:focus {
 }
 
 /* end footer section*/
-/*# sourceMappingURL=style.css.map */
